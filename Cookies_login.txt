@@ -1,0 +1,7 @@
+PS E:\Python_Workspace\Practice> & C:/Python312/python.exe e:/Python_Workspace/Practice/cookie_login
+
+DevTools listening on ws://127.0.0.1:54836/devtools/browser/d7d1bb95-973d-44fb-8c44-fa4f5454ec6b
+cookies before login
+ cookies after login
+{'domain': 'www.saucedemo.com', 'expiry': 1713587393, 'httpOnly': False, 'name': 'session-username', 'path': '/', 'sameSite': 'Lax', 'secure': False, 'value': 'standard_user'}
+PS E:\Python_Workspace\Practice> 
